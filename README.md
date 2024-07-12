@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamraydhack" target="blank"><img src="https://img.shields.io/twitter/follow/iamraydhack?logo=twitter&style=for-the-badge" alt="iamraydhack" /></a> </p>
 
-- 🔭 I’m currently working on [InOwnHome](https://www.inownhome.com/)
+- 🔭 I’m currently working at [Infosys]
 
 - 🌱 I’m currently learning **Blockchain and Smart Contracts**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashish9707@gmail.com**
 
-- 📄 Know about my experiences [1 Years and 8 months]
+- 📄 Know about my experiences [2 Years and 10 months]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
