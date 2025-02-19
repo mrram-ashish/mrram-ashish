@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashish9707@gmail.com**
 
-- 📄 Know about my experiences [2 Years and 10 months]
+- 📄 Know about my experiences [3 Years and 3 months]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
